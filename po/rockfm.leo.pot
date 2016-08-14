@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-14 01:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/leo/Dropbox/qt/RockFM/RockFM/about.qml:38
+msgid "RockFM"
+msgstr ""
+
+#: /home/leo/Dropbox/qt/RockFM/RockFM/about.qml:43
+msgid "v0.2"
+msgstr ""
+
+#: /home/leo/Dropbox/qt/RockFM/RockFM/about.qml:49
+msgid "leonidy85@gmail.com"
+msgstr ""
+
+#: /home/leo/Dropbox/qt/RockFM/RockFM/about.qml:55
+msgid "2016"
+msgstr ""
+
+#: /home/leo/Dropbox/qt/RockFM/RockFM/Main.qml:23
+msgid "Rock FM"
+msgstr ""
+
+#: /home/leo/Dropbox/qt/RockFM/RockFM/Main.qml:70
+msgid "Play "
+msgstr ""
+
+#: /home/leo/Dropbox/qt/RockFM/RockFM/Main.qml:83
+msgid "Stop "
+msgstr ""
+
+#: /home/leo/Dropbox/qt/RockFM/RockFM/Main.qml:96
+msgid "About"
+msgstr ""

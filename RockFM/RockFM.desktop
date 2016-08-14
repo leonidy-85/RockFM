@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=RockFM
+Exec=qmlscene $@ RockFM/Main.qml
+Icon=RockFM/RockFM.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

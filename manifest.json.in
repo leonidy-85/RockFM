@@ -1,0 +1,15 @@
+{
+    "name": "rockfm",
+    "description": "description of RockFM",
+    "architecture": "@CLICK_ARCH@",
+    "title": "RockFM",
+    "hooks": {
+        "RockFM": {
+            "apparmor": "RockFM/RockFM.apparmor",
+            "desktop": "RockFM/RockFM.desktop"
+        }
+    },
+    "version": "0.2",
+    "maintainer": "Leonid Yurasov <leonidy85@gmail.com>",
+    "framework": "ubuntu-sdk-15.04.5-html"
+}
